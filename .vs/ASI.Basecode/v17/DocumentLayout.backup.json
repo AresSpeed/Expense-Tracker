@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\downloads\\asibasecode\\asibasecode\\asibasecode\\asi.basecode.webapp\\views\\report\\expensetrends.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\report\\expensetrends.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\downloads\\asibasecode\\asibasecode\\asibasecode\\asi.basecode.webapp\\models\\expensetrendviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\models\\expensetrendviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\downloads\\asibasecode\\asibasecode\\asibasecode\\asi.basecode.webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\downloads\\asibasecode\\asibasecode\\asibasecode\\asi.basecode.webapp\\asi.basecode.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\asi.basecode.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\downloads\\asibasecode\\asibasecode\\asibasecode\\asi.basecode.webapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ASI.Basecode.WebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj",
+              "ToolTip": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T04:27:50.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:51:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseTrendViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\Models\\ExpenseTrendViewModel.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Models\\ExpenseTrendViewModel.cs",
+              "ToolTip": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\Models\\ExpenseTrendViewModel.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Models\\ExpenseTrendViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:49:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseTrends.cshtml",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Report\\ExpenseTrends.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Report\\ExpenseTrends.cshtml",
+              "ToolTip": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Report\\ExpenseTrends.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Report\\ExpenseTrends.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T14:16:01.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Loryn\\Downloads\\ASIBasecode\\ASIBasecode\\ASIBasecode\\ASI.Basecode.WebApp\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAABADAAAAAAAAAAAuwCADAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-16T14:13:32.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
